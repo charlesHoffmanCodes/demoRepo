@@ -1,2 +1,2 @@
 # Demo
-Some description of your coding project! 
+Some description of your coding project.
